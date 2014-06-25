@@ -4,6 +4,8 @@ SimpleWeather
 iOS application to show the weather and to explore Functional
 Programming in Objective-C.
 
+Open the SimpleWeather.xcworkspace in XCode.
+
 Screenshots
 ===========
 
