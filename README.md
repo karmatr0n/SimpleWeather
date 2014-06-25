@@ -15,7 +15,7 @@ Screenshots
 
 ![alt tag](https://raw.githubusercontent.com/juarlex/SimpleWeather/master/demo3.png)
 
-AKNOWLEDGE
+ACKNOWLEDGE
 ==========
 
 Thanks to Ryan Nystrom for this excelent tutorial.
